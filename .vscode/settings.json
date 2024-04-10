@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:workshop-8-authentication-FinnchieDi}/instance/db.sqlite",
+            "name": "db.sqlite"
+        }
+    ]
+}
